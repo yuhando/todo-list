@@ -1,6 +1,6 @@
 ## Create Todo List app with Laravel 5.2 
 
-### Requirment
+### Requirement
 - PHP >= 5.6.4 (I recommend you to install PHP >= 7.0)
 - OpenSSL PHP Extension
 - PDO PHP Extension
